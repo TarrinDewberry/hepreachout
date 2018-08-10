@@ -1,0 +1,49 @@
+
+h1{
+font-family: 'Open Sans', sans-serif;
+ color:rgb(175, 51, 22);
+  text-align:center;
+font-size:120px;}
+  p{ color:rgb(175, 51, 22);
+
+
+    display:block;
+    text-align: center;
+
+    font-size:80px;}
+    div{
+      text-align:center;
+      color:white;
+      font-size:75px;}
+
+      nav{ text-align: center;
+         background-color:rgb(232, 200, 27);
+
+        font-size: 100px;
+        overflow-x: hidden;
+      padding-top:14px 16px;
+  }
+      h1.thick {
+    font-weight: bold;
+}
+h2{text-align: center;
+font-size: 100px;
+color:rgb(175, 51, 22);
+font-family: 'Open Sans', sans-serif;}
+h1.thicker{
+    font-weight: 1000;
+}
+li{font-size: 80px;
+
+}
+ul{font-size: 100px;
+text-align: center;
+color:rgb(175, 51, 22);
+list-style-type: none;}
+input{font-size: 90px;}
+img{margin-top: 100px;
+margin-bottom: 100px;
+margin-right: 800px;
+margin-left: 1000px;
+height:auto;
+width:60%;}

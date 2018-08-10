@@ -1,0 +1,19 @@
+h1{font-size: 120px;
+text-align:center;
+font-family: 'Open Sans', sans-serif;
+color:rgb(175, 51, 22);;}
+p{font-size: 100px;
+  font-family: 'Open Sans', sans-serif;
+text-align: center;
+color:rgb(175, 51, 22);;}
+img{margin-top: 100px;
+margin-bottom: 100px;
+margin-right: 800px;
+margin-left: 1000px;
+height:30%;
+width:auto;}
+nav{text-align:center;
+font-size: 100px;
+background-color:rgb(232, 200, 27);
+      overflow-x: hidden;
+    padding-top:14px 16px;}
